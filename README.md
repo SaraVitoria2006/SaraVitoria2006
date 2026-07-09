@@ -21,7 +21,7 @@ Estudante de tecnologia e desenvolvedora em constante evolução. Adoro criar pr
 ---
 
 ### 📊 Meu GitHub Stats
-
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=SaraVitoria2006&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true" />
 <div align="center">
   <a href="https://github.com/SaraVitoria2006">
     <img height="180px" src="https://github-readme-stats.vercel.app/api?username=SaraVitoria2006&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true" />
