@@ -1,21 +1,27 @@
+```md
 # Oiii! Eu sou a Sara Vitória 👋
 
+<img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" width="170" align="right"/>
+
+Estudante de tecnologia e desenvolvedora em constante evolução.
+
+Gosto de aprender construindo projetos, principalmente utilizando **Java**, **Python** e **MySQL**. Aqui você vai encontrar os projetos que desenvolvo durante meus estudos e minha evolução na programação.
+
+---
+
+## 🚀 Tecnologias
+
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" width="150" align="right" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
 </p>
 
-Estudante de tecnologia e desenvolvedora em constante evolução. Adoro criar projetos, aprender novas linguagens e resolver desafios lógicos!
+---
 
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="40" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="40" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" width="45" />
-</div>
-
-
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -31,15 +37,27 @@ Estudante de tecnologia e desenvolvedora em constante evolução. Adoro criar pr
 
 </div>
 
+---
 
-<div align="left">
-  <a href="[https://linkedin.com/in/Sara Vitoria](https://www.linkedin.com/in/sara-vitoria-41827a383?utm_source=share_via&utm_content=profile&utm_medium=member_ios)" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:saravitoria20019@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://instagram.com/sara.vitoria13" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
+## 📫 Contato
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/sara-vitoria-41827a383/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:saravitoria20019@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/sara.vitoria13/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+> *"Cada projeto é uma oportunidade de aprender algo novo."* 💜
+```
