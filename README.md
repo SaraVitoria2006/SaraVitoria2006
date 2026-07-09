@@ -1,4 +1,4 @@
-```md
+
 # Oiii! Eu sou a Sara Vitória 👋
 
 <img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" width="170" align="right"/>
