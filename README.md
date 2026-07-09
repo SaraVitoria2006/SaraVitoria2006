@@ -21,14 +21,13 @@ Estudante de tecnologia e desenvolvedora em constante evolução. Adoro criar pr
 ---
 
 ### 📊 Meu GitHub Stats
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=SaraVitoria2006&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true" />
+
 <div align="center">
   <a href="https://github.com/SaraVitoria2006">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=SaraVitoria2006&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true" />
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraVitoria2006&layout=compact&langs_count=7&theme=one_dark_pro" />
+    <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaraVitoria2006&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true" />
+    <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=SaraVitoria2006&theme=one_dark_pro" />
   </a>
 </div>
-
 ---
 
 ### 📬 Redes e Contato
