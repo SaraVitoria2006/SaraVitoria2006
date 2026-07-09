@@ -6,9 +6,6 @@
 
 Estudante de tecnologia e desenvolvedora em constante evolução. Adoro criar projetos, aprender novas linguagens e resolver desafios lógicos!
 
----
-
-### 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="40" width="45" />
@@ -18,9 +15,7 @@ Estudante de tecnologia e desenvolvedora em constante evolução. Adoro criar pr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" width="45" />
 </div>
 
----
 
-## 📊 GitHub Stats
 
 <div align="center">
 
@@ -36,10 +31,9 @@ Estudante de tecnologia e desenvolvedora em constante evolução. Adoro criar pr
 
 </div>
 
-### 📬 Redes e Contato
 
 <div align="left">
-  <a href="https://linkedin.com/in/Sara Vitoria" target="_blank">
+  <a href="[https://linkedin.com/in/Sara Vitoria](https://www.linkedin.com/in/sara-vitoria-41827a383?utm_source=share_via&utm_content=profile&utm_medium=member_ios)" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:saravitoria20019@gmail.com" target="_blank">
