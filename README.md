@@ -1,91 +1,47 @@
 <div align="center">
-
-# Sara Vitória
-
-**Back-end Developer • Java • Python**
-
-Estou construindo minha carreira em desenvolvimento de software e uso este GitHub para registrar minha evolução através de projetos reais.
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&duration=3500\&pause=1000\&color=8A2BE2\&center=true\&vCenter=true\&width=500\&lines=Bem-vindo\(a\)+ao+meu+GitHub.;Java+%7C+Python+%7C+MySQL.;Um+projeto+de+cada+vez.)](https://git.io/typing-svg)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bem+vindos+%3A" alt="Typing SVG" />
+  </a>
 </div>
 
----
-
-## Sobre
-
-Atualmente estou focada em desenvolvimento Back-end com **Java**, estudando Programação Orientada a Objetos, estruturas de dados, banco de dados e boas práticas de desenvolvimento.
-
-Gosto de aprender construindo projetos. Cada repositório representa um passo na minha evolução como desenvolvedora.
-
----
-
-## Tecnologias
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,vscode"/>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" width="180" />
 </p>
 
 ---
 
-## Atualmente
+### 👩‍💻 Tecnologias e Ferramentas / Technologies
 
-* 📚 Estudando Java
-* ☕ Praticando Programação Orientada a Objetos
-* 🗄️ Aprendendo MySQL
-* 🚀 Desenvolvendo projetos para meu portfólio
-
----
-
-## Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaraVitoria2006&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraVitoria2006&layout=compact&theme=github_dark&hide_border=true"/>
-
+<div style="display: inline-block;">
+  <img align="center" alt="Java" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img align="center" alt="MySQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />       
+  <img align="center" alt="VSCode" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
 ---
 
-## Projetos em destaque
-
-| Projeto            | Descrição                                                              |
-| ------------------ | ---------------------------------------------------------------------- |
-| 📚 Biblioteca Java | Sistema utilizando Programação Orientada a Objetos.                    |
-| 📋 Todo List       | Gerenciador de tarefas em Java.                                        |
-| 🏥 Agenda Médica   | Sistema de cadastro e gerenciamento de consultas.                      |
-| 🎮 The Sims Java   | Projeto para praticar POO simulando personagens, casas e necessidades. |
-
----
-
-## Contato
-
-<p>
-
-<a href="https://github.com/SaraVitoria2006">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/SEU-LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:SEUEMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
+### 📊 Estatísticas / GitHub Stats
 
 <div align="center">
+  <a href="https://github.com/SaraVitoria2006">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=SaraVitoria2006&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraVitoria2006&layout=compact&langs_count=7&theme=one_dark_pro" />
+  </a>
+</div>
 
-> *"A melhor forma de aprender é construir."*
+---
 
+### 📬 Contato / Connect with me
+
+Sinta-se à vontade para se conectar comigo ou acompanhar meu trabalho!
+
+<div style="display: inline-block;">
+  <a href="https://linkedin.com/in/SEU_USER_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:seu.email@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
